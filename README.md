@@ -1,0 +1,2 @@
+# DoGit
+Learning GIT tool
