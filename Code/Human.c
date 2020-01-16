@@ -1,5 +1,5 @@
 #include "Human.h"
 
-int playWithHuman() {
+void playWithHuman() {
 	Human h ={100, "Charan"};
 }
